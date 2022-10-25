@@ -22,7 +22,7 @@
 </div>
  
 
-![juniooor's Stats](https://github-readme-stats.vercel.app/api?username=juniooor&show_icons=true)
+![juniooor's Stats](https://github-readme-stats.vercel.app/api?username=juniooor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
   
   
  
