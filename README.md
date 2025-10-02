@@ -1,6 +1,6 @@
 ## Olá, meu nome é Junior
 ## Tecnólogo em Análise e Desenvolvimento de Sistemas 👨‍🎓
-## 22 Anos
+## 24 Anos
 <div align="center">
   <a href="https://github.com/juniooor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniooor&show_icons=true&theme=chartreuse-dark"/>
